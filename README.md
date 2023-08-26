@@ -55,6 +55,7 @@ Retrieve a list of non-fork repositories for the specified GitHub username.
 
 ```bash
 GET /api/repositories/{username}
+```
 
 #### Example Response
 
